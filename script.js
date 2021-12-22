@@ -1,5 +1,5 @@
 'use strict';
-
+// Before Refectoring Code
 let msg = document.querySelector('.message');
 const guess = document.querySelector('.guess');
 const btnCheck = document.querySelector('.check');
